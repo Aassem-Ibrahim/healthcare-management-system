@@ -1,6 +1,8 @@
 # healthcare-management-system
 ASU - CSE 228 Project
 
+# Using Java (Swing)
+
 UML Design:
 
 ![datei](documentation/uml.jpg)
@@ -31,9 +33,6 @@ Doctor window:
 ![datei](documentation/doctor.jpg)
 
 
-PAtient window:
+Patient window:
 
 ![datei](documentation/patient.jpg)
-
-
-# Using Java (Swing)
