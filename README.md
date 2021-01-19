@@ -3,37 +3,37 @@ ASU - CSE 228 Project
 
 UML Design:
 
-![datei](documentation/uml.png)
+![datei](documentation/uml.jpg)
 
 
 Login Sequence Diagram:
 
-![datei](documentation/login-seq.png)
+![datei](documentation/login-seq.jpg)
 
 
 Login window:
 
-![datei](documentation/login.png)
+![datei](documentation/login.jpg)
 
 
 Main window:
 
-![datei](documentation/main.png)
+![datei](documentation/main.jpg)
 
 
 Appointment window:
 
-![datei](documentation/appointment.png)
+![datei](documentation/appointment.jpg)
 
 
 Doctor window:
 
-![datei](documentation/doctor.png)
+![datei](documentation/doctor.jpg)
 
 
 PAtient window:
 
-![datei](documentation/patient.png)
+![datei](documentation/patient.jpg)
 
 
 # Using Java (Swing)
